@@ -1,3 +1,4 @@
 bin/
 reports/
 *.pdf
+internal/check/bugscan.code-workspace
